@@ -192,24 +192,25 @@ exit
 ![lifecycle](lifecycle.png)
 
 
-📦 Entregable esperado
+### 📦 Entregable esperado
 
 Para este laboratorio se espera como entregable una evidencia del proceso completo realizado por cada ingeniero. Esto incluye una serie de pantallazos del paso a paso que muestren:
 
-Instalación de Docker Desktop en Windows
+- Instalación de Docker Desktop en Windows
 
-Verificación de la instalación con docker version y docker info
+- Verificación de la instalación con docker version y docker info
 
-Ejecución del contenedor hello-world
+- Ejecución del contenedor hello-world
 
-Ejecución interactiva con alpine o ubuntu
+- Ejecución interactiva con alpine o ubuntu
 
-Comandos usados: docker run, docker ps, docker images, docker stop, docker rm, docker rmi
+- Comandos usados: docker run, docker ps, docker images, docker stop, docker rm, docker rmi
 
-Evidencia de prueba con imagen de .NET SDK
+- Evidencia de prueba con imagen de .NET SDK
 
-📁 Estructura sugerida del entregable
+### 📁 Estructura sugerida del entregable
 
+```
 lab1/
 ├── capturas/
 │   ├── 01-instalacion-docker.png
@@ -218,16 +219,17 @@ lab1/
 │   ├── 04-alpine-interactivo.png
 │   └── ...
 └── README.md (opcional, para describir brevemente el proceso)
+```
 
-🌿 Rama en Git
+### 🌿 Rama en Git
 
 La entrega debe hacerse en una rama con la siguiente nomenclatura:
 
-lab1_nombre_apellido
+    lab1_nombre_apellido
 
 Por ejemplo:
 
-lab1_santiago_suarez
+    lab1_santiago_suarez
 
 📌 Asegúrate de subir las capturas ordenadas y descriptivas para facilitar su revisión.
 
