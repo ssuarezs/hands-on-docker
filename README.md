@@ -7,13 +7,13 @@ Este repositorio está pensado para estudiantes y desarrolladores que quieren co
 
 ## 📘 Laboratorios disponibles
 
-1. **Laboratorio 1 – Fundamentos de Docker**
+1. [**Laboratorio 1 – Fundamentos de Docker**](/lab_1_docker_fundamentals/)
    - ¿Qué es Docker?
    - Descarga y ejecución de imágenes
    - Exploración de contenedores e imágenes
    - Comandos básicos de la CLI de Docker
 
-2. **Laboratorio 2 – Construyendo tu propia imagen**
+2. [**Laboratorio 2 – Construyendo tu propia imagen**](/lab_2_custom_images/)
    - Introducción a Dockerfile
    - Crear y etiquetar imágenes personalizadas
    - Subir imágenes a Docker Hub (opcional)
