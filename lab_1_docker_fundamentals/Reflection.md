@@ -1,6 +1,6 @@
-🧠 Respuestas a las preguntas de reflexión
-1. ¿Qué diferencia hay entre una imagen y un contenedor?
+# 🧠 Lab 1: Respuestas a las preguntas de reflexión
 
+1. ¿Qué diferencia hay entre una imagen y un contenedor?
     - Imagen: Es un archivo de solo lectura, una plantilla inmutable que contiene todo lo necesario para ejecutar una aplicación (sistema de archivos, binarios, dependencias, configuraciones).
 
     - Contenedor: Es una instancia en ejecución de una imagen. Es mutable, tiene su propio sistema de archivos y estado. Podés pensar en la imagen como una clase, y el contenedor como un objeto creado a partir de esa clase.
